@@ -10,4 +10,5 @@ func Sub(a, b int) int{
 }
 func main() {
 	fmt.Println("CI/CD Demo: 1 + 2 =", Add(1, 2))
+	fmt.Println("CI/CD Demo: 1 - 2 =", Sub(1, 2))
 }
